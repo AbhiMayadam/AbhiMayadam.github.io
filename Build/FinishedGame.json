@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TowerDefenseTutorial",
+"dataUrl": "FinishedGame.data.unityweb",
+"asmCodeUrl": "FinishedGame.asm.code.unityweb",
+"asmMemoryUrl": "FinishedGame.asm.memory.unityweb",
+"asmFrameworkUrl": "FinishedGame.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
